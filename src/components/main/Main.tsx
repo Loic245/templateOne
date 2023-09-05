@@ -1,9 +1,9 @@
-import Header from "../Header"
+import Header from "../pageOne/Header"
 import { Box } from "@mui/material"
-import FirstComponent from "../firstComponent"
-import SecondComponent from "../secondComponent"
-import ThirdComponent from "../thirdComponent"
-import FourthComponent from "../fourthComponent"
+import FirstComponent from "../pageOne/firstComponent"
+import SecondComponent from "../pageOne/secondComponent"
+import ThirdComponent from "../pageOne/thirdComponent"
+import FourthComponent from "../pageOne/fourthComponent"
 import useStyles from "./style"
 
 const Main = () => {
