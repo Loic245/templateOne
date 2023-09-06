@@ -1,9 +1,9 @@
 import { Box, Typography } from "@mui/material";
 import useStyles from "./style";
-import Pizza from "../../assets/pizza.png"
-import Pasta from "../../assets/pates.png"
-import Burger from "../../assets/burger.png"
-import Appetizer from "../../assets/croissant.png"
+import Pizza from "../../../assets/pizza.png"
+import Pasta from "../../../assets/pates.png"
+import Burger from "../../../assets/burger.png"
+import Appetizer from "../../../assets/croissant.png"
 
 
 const FirstComponent = () => {

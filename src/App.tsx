@@ -1,11 +1,11 @@
-import { Box } from "@mui/material";
-import Main from "./components/main";
+import { BrowserRouter } from "react-router-dom";
+import Routers from "./Route/Router";
 
 function App() {
   return (
-    <Box>
-      <Main />
-    </Box>
+    <BrowserRouter>
+      <Routers />
+    </BrowserRouter>
   );
 }
 
